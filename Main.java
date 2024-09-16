@@ -15,7 +15,7 @@ public class Main {
             System.out.println("Średni wynik, ale jesteś na dobrej drodze");
         }
         else if (a > 70){
-            System.out.println("Świetnie! Dobrze Ci poszło");
+            System.out.println("Świetnie! Dobrze Ci poszło.");
         }
         sc.close();
     }
